@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sania Siddiqui</h1>
-<h3 align="center">A first-year undergraduate deep diving into the world of Programming</h3>
+<h3 align="center">A second-year undergraduate deep diving into the world of Programming</h3>
 <img align="right" alt="Coding" width="400" src="https://storage.googleapis.com/pai-images/fd3e07226c064dc4b34c8140022aff69.jpeg">
 
 <p align="left"> <a href="https://twitter.com/sania2_2" target="blank"><img src="https://img.shields.io/twitter/follow/sania2_2?logo=twitter&style=for-the-badge" alt="sania2_2" /></a> </p>
 
 - 🌱 I’m currently learning **React JS, Data Structures and Algorithms in Java**
 
-- 💬 Ask me about **JavaScript, Python, Flask, CSS, Bootstrap, Java**
+- 💬 Ask me about **JavaScript, Python, Flask, CSS, Java**
 
 - 📫 How to reach me **sania.siddiqui231@gmail.com**
 
