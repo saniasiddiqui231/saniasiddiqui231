@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sania Siddiqui</h1>
 <h3 align="center">A second-year undergraduate deep diving into the world of Programming</h3>
-<img align="right" alt="Coding" width="400" src="https://storage.googleapis.com/pai-images/fd3e07226c064dc4b34c8140022aff69.jpeg">
 
 - 📫 How to reach me **sania.siddiqui231@gmail.com**
 
